@@ -9,6 +9,6 @@ Welcome to my SQL portfolio! This repository contains a collection of my SQL pro
   ○ **SQL Skills Used:** Table Creation,Data Type Conversion, Common Table Expressions (CTEs),Date Functions,Joins, aggregations, subqueries, window functions,Case statements 
       for conditional logic,Grouping and filtering for segmentation.
      
-  ○ **[View SQL Script](https://example.com)**    
+  ○ **[SQL Cleaning and Analysis](./northwind/)**    
   ○ **[Original Dataset From Here ](https://example.com)**
 
