@@ -15,4 +15,5 @@ I prepared the raw dataset through standard cleaning processes, and analyzed the
  Table Creation,Data Type Conversion, Common Table Expressions (CTEs),Date Functions,Joins, aggregations, subqueries, window functions,Case statements for conditional logic,Grouping and filtering for segmentation
 
 -  [View Data Cleaning SQL Script](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Clean_northwind.sql)  
--  [View EDA SQL Script](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/northwind_deeper_analysis.sql) 
+-  [View EDA SQL Script](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/northwind_deeper_analysis.sql)
+-  [More Detailed Insights](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/README.md) 
