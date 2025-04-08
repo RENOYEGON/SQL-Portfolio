@@ -2,7 +2,7 @@
 
 This dataset  was collected from   a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world.   
 
-Date Range ***04/07/2022*** To ***03/06/2024***
+Date Range: ***04/07/2022*** To ***03/06/2024***
 
 Dataset from [Here](https://docs.yugabyte.com/)
  
