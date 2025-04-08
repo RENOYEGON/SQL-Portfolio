@@ -8,6 +8,11 @@
    - In **2022**, revenue began in July and grew consistently throughout the year.
    - In **2023**, notable peaks were observed in **October** ($66.7K) and **December** ($71.4K), highlighting key months for revenue generation.
    - In **2024**, the first quarter witnessed exceptionally high revenue, setting a strong pace for the year ahead.
+
+
+![Revenue trends over time](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/Revenue%20generation%20%20over%20time.png)
+
+
    
 ### 2. Is too much spent on shipping?Is shipping getting more expensive??
 
@@ -23,6 +28,9 @@
    - In **January 2024**, total freight costs peaked at **$19,027.55**, driven by an increase in total orders and quantities.
    - Freight costs then dropped to **$10,451.08**, followed by another increase to **$20,186.53** in **April 2024**, again primarily influenced by higher order volumes and quantities.
  
+
+![freight](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/freight%20percentage%20over%20time.png)
+
 ### 3. Do Discounts Drive Sales?
    - Yes – On a per-order basis, discounted sales moved more units (59.78 units/order) than non-discounted (46.65 units/order).
     - Customers are likely buying more when offered discounts.
@@ -56,9 +64,12 @@
 
 - **Top 5 Products**: The **top 5 products** combined make up **30.57%** of total revenue, showing a strong concentration of sales in this small group of high-performing items.
 
+![customers](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/top%20selling.png)
+
 - **Underperforming Products**: On the flip side, the **worst 5 products** contribute less than **1%** of total revenue, indicating that these items have minimal impact on the overall financial performance.
 
 
+![customers](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/worst%20selling.png)
 
 ### 5. Are Discontinued Products Still Selling Well?
 
@@ -77,6 +88,11 @@
      - Had lower revenue per product  
      - Were consistently underperforming compared to active products  
      - discontinuing them was likely the right decision.
+   
+
+![customers](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/Discontinued%20vs.%20non-discontinued.png)
+
+
 ### 5. Top Customers by Profitability (Not Just Revenue)
 - Some customers buy a lot but receive heavy discounts, reducing profitability.  
 - Top Customers by Gross Revenue
@@ -102,3 +118,7 @@ The top 3 contribute over **$110,000+** in gross revenue.
 - Discounts are helping drive volume for SAVEA, HUNGO, and MEREP, but at the cost of margin.
 
 - It’s worth revisiting pricing strategies and maybe reserving discounts for customers with high order frequency or strategic value
+
+
+
+![customers](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/Top%20Customers%20by%20Profitability.png)
