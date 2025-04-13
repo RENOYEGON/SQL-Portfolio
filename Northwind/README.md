@@ -22,9 +22,11 @@ I prepared the raw dataset through standard cleaning processes, and analyzed the
 -  [More Detailed Insights](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/README.md) 
 
 
+## DB
 From a database design perspective this is how it looks like:    
 ![database design](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Images/operational%20processes.png)
 
+## ERD
 Visual break  down  as an Entity-Relationship Diagram (ERD):   
 
 ![Entity-Relationship Diagram](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Images/ERD.png)
