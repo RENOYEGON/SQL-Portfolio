@@ -24,14 +24,14 @@
 ### 2. Is too much spent on shipping?Is shipping getting more expensive??
 
 
-🖥️ Query: 1-[too_much_spent_on_shipping.sql](Northwind/Insights/too_much_spent_on_shipping.sql)
+🖥️ Query: 2-[too_much_spent_on_shipping.sql](Northwind/Insights/too_much_spent_on_shipping.sql)
 
 📈 Visualization:
 
 <img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/freight%20percentage%20over%20time.png?raw=true" alt="freight" width="50%" />
 
 
-- **Freight Cost Analysis**: The average freight percentage is **-0.01455%**, indicating a minimal change in freight costs over time.
+- **Freight Cost Analysis**: The average freight percentage change is **-0.01455%**, indicating a minimal change in freight costs over time.
 
 - **Revenue and Freight Proportions**: The average total revenue stands at **$9,073.31**, with freight accounting for **16.26%** of this total. This suggests that nearly **1/6 of the revenue** is allocated to covering shipping costs.
 
@@ -45,6 +45,9 @@
 
 
 ### 3. Do Discounts Drive Sales?
+
+🖥️ Query: 3-[Discount_Impact_on_Sales.sql](Northwind/Insights/Discount_Impact_on_Sales.sql)
+
    - Yes – On a per-order basis, discounted sales moved more units (59.78 units/order) than non-discounted (46.65 units/order).
     - Customers are likely buying more when offered discounts.
 
