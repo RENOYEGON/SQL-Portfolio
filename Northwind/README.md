@@ -16,13 +16,11 @@ I prepared the raw dataset through standard cleaning processes, and analyzed the
 -  [View Data Cleaning SQL Script](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Clean_northwind.sql)  
 -  [More Detailed Insights and Scripts](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/README.md) 
 
-
-## DB
-From a database design perspective this is how it looks like:    
-<img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Images/operational processes.png?raw=true" alt="Entity-Relationship Diagram" width="60%" />
-
 ## ERD
 Visual break  down  as an Entity-Relationship Diagram (ERD):   
 
 <img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Images/ERD.png?raw=true" alt="Entity-Relationship Diagram" width="60%" />
 
+## DB
+From a database design perspective this is how it looks like:    
+<img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Images/operational processes.png?raw=true" alt="Entity-Relationship Diagram" width="60%" />
