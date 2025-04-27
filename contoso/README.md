@@ -20,7 +20,10 @@ This business dataset entails  information about customers, products, sales tran
 ### 1.Key Cohort Insights:
 🖥️ Query: 1-[CohortAnalysis.sql](CohortAnalysis.sql)
 
-📈 Visualization:![alt text](<Images/Lifetime Value to Initial Revenue Ratio by Cohort.png>)
+📈 Visualization:
+
+<img src="Images/Lifetime%20Value%20to%20Initial%20Revenue%20Ratio%20by%20Cohort.png" alt="Lifetime Value to Initial Revenue Ratio by Cohort" width="50%" />
+
 
 - *Customer value over time is declining*:
   -  **Avg lifetime value per customer** has dropped from **$5.6K (2015)** to **$1.9K (2024)**. Retention is weakening: Lifetime/initial revenue ratio has shrunk over the years, indicating newer customers may be less loyal or lower-spending. **2022** and **2023** cohorts brought high initial revenues but relatively weaker retention. 
@@ -46,7 +49,9 @@ This business dataset entails  information about customers, products, sales tran
 ### 2.Churned Customers Insights:
 🖥️ Query: 2-[Churned Customers.sql](<churned customers.sql>)
 
-📈 Visualization:![alt text](Images/Churned.png)
+📈 Visualization:
+
+<img src="Images/Churned.png" alt="Churned" width="50%" />
 
 -  📊 *Key Insights:*:
     
