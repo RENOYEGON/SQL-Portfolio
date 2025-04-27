@@ -7,9 +7,10 @@ Welcome to my SQL portfolio! This repository contains a collection of my SQL pro
 ○ **Description:** Project involves analyzing customer behavior, retention trends, and lifetime value for an e-commerce company
      
   ○ **SQL Skills Used:** Table Creation,Common Table Expressions (CTEs), Window Functions, Aggregations, Group By, Joins, Date Functions.
-     
-  ○ **[View SQL Script](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Clean_northwind.sql)**  
-  ○ **[Original dataset from here.](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/contoso-data-warehouse)**
+    
+  - [View SQL Scripts](contoso)
+
+  - **[Original dataset from here.](https://www.sqlbi.com/tools/contoso-data-generator)**
 
 
 
@@ -21,6 +22,6 @@ Welcome to my SQL portfolio! This repository contains a collection of my SQL pro
   ○ **SQL Skills Used:** Table Creation,Data Type Conversion, Common Table Expressions (CTEs),Date Functions,Joins, aggregations,window functions,Grouping and filtering for 
   segmentation.
      
-  ○ **[View SQL Script](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Clean_northwind.sql)**  
-  ○ **[Original dataset from here.](https://docs.yugabyte.com/)**
+  - **[View SQL Script](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Clean_northwind.sql)**  
+  - **[Original dataset from here.](https://docs.yugabyte.com/)**
 
