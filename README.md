@@ -10,7 +10,7 @@ Welcome to my SQL portfolio! This repository contains a collection of my SQL pro
     
   - [View SQL Scripts](contoso)
 
-  - **[Original dataset from here.](https://www.sqlbi.com/tools/contoso-data-generator)**
+  - [Original dataset from here.](https://www.sqlbi.com/tools/contoso-data-generator)
 
 
 
@@ -22,6 +22,6 @@ Welcome to my SQL portfolio! This repository contains a collection of my SQL pro
   ○ **SQL Skills Used:** Table Creation,Data Type Conversion, Common Table Expressions (CTEs),Date Functions,Joins, aggregations,window functions,Grouping and filtering for 
   segmentation.
      
-  - **[View SQL Script](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Clean_northwind.sql)**  
-  - **[Original dataset from here.](https://docs.yugabyte.com/)**
+  - [View SQL Scripts](Northwind) 
+  - [Original dataset from here.](https://docs.yugabyte.com/)
 

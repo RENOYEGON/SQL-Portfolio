@@ -1,5 +1,12 @@
 ## Insights
 ### 1. Revenue trends over time
+
+🖥️ Query: 1-[Total_Sales_Revenue.sql](Northwind/Insights/Total_Sales_Revenue.sql)
+
+📈 Visualization:
+
+<img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/Revenue%20generation%20%20over%20time.png?raw=true" alt="Revenue trends over time" width="50%" />
+
 - **Total Revenue**: The total revenue reached an impressive $1,265,793.04, reflecting significant financial performance.
 
 - **Year-Over-Year Growth**: There has been rapid revenue growth year over year, signaling a robust upward trajectory in business performance.
@@ -10,11 +17,18 @@
    - In **2024**, the first quarter witnessed exceptionally high revenue, setting a strong pace for the year ahead.
 
 
-![Revenue trends over time](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/Revenue%20generation%20%20over%20time.png)
+
 
 
    
 ### 2. Is too much spent on shipping?Is shipping getting more expensive??
+
+
+🖥️ Query: 1-[too_much_spent_on_shipping.sql](Northwind/Insights/too_much_spent_on_shipping.sql)
+
+📈 Visualization:
+
+<img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/freight%20percentage%20over%20time.png?raw=true" alt="freight" width="50%" />
 
 
 - **Freight Cost Analysis**: The average freight percentage is **-0.01455%**, indicating a minimal change in freight costs over time.
@@ -29,7 +43,6 @@
    - Freight costs then dropped to **$10,451.08**, followed by another increase to **$20,186.53** in **April 2024**, again primarily influenced by higher order volumes and quantities.
  
 
-![freight](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/freight%20percentage%20over%20time.png)
 
 ### 3. Do Discounts Drive Sales?
    - Yes – On a per-order basis, discounted sales moved more units (59.78 units/order) than non-discounted (46.65 units/order).
@@ -60,18 +73,37 @@
 
 ### 4. Best and Worst selling products
 
-- **Top-Selling Products**: The top-selling product contributes **11.17%** of total revenue, while the second-best seller accounts for **6.35%**. Together, these two products play a significant role in driving overall sales.
+- **Top-Selling Products**: 
 
-- **Top 5 Products**: The **top 5 products** combined make up **30.57%** of total revenue, showing a strong concentration of sales in this small group of high-performing items.
+  🖥️ Query: 4-[Best_and_Worst_Selling_Products.sql](Northwind/Insights/Best_and_Worst_Selling_Products.sql)
+  
+  📈 Visualization:
 
-![customers](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/top%20selling.png)
+  <img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/top%20selling.png?raw=true" alt="customers" width="70%" />
+
+- The top-selling product contributes **11.17%** of total revenue, while the second-best seller accounts for **6.35%**. Together, these two products play a significant role in driving overall sales.
+
+- **Top 5 Products**: 
+
+  <img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/worst%20selling.png?raw=true" alt="customers" width="70%" />
+
+
+- The **top 5 products** combined make up **30.57%** of total revenue, showing a strong concentration of sales in this small group of high-performing items.
+
+
 
 - **Underperforming Products**: On the flip side, the **worst 5 products** contribute less than **1%** of total revenue, indicating that these items have minimal impact on the overall financial performance.
 
 
-![customers](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/worst%20selling.png)
-
 ### 5. Are Discontinued Products Still Selling Well?
+
+
+🖥️ Query: 5-[Discontinued_Products_Still_Selling_Well.sql](Northwind/Insights/Discontinued_Products_Still_Selling_Well.sql)
+
+📈 Visualization:
+
+<img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/Discontinued%20vs.%20non-discontinued.png?raw=true" alt="customers" width="50%" />
+
 
   - Discontinued products consistently contribute fewer units and less revenue, roughly:
 
@@ -90,10 +122,19 @@
      - discontinuing them was likely the right decision.
    
 
-![customers](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/Discontinued%20vs.%20non-discontinued.png)
 
 
-### 5. Top Customers by Profitability (Not Just Revenue)
+
+### 6. Top Customers by Profitability (Not Just Revenue)
+
+
+🖥️ Query: 6-[Key_Customers_&_profitability.sql](Northwind/Insights/Key_Customers_&_profitability.sql)
+
+📈 Visualization:
+
+<img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/Top%20Customers%20by%20Profitability.png?raw=true" alt="customers" width="70%" />
+
+
 - Some customers buy a lot but receive heavy discounts, reducing profitability.  
 - Top Customers by Gross Revenue
 The top 3 contribute over **$110,000+** in gross revenue.
@@ -121,4 +162,4 @@ The top 3 contribute over **$110,000+** in gross revenue.
 
 
 
-![customers](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/Top%20Customers%20by%20Profitability.png)
+
