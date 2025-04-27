@@ -70,7 +70,9 @@ This business dataset entails  information about customers, products, sales tran
 ### 3.Churned Customers Insights:
 🖥️ Query:3-[RFM.sql](<done customer_segmentation.sql>)
 
-📈 Visualization:![alt text](<Images/Sum of avg_revenue_per_customer.png>)
+📈 Visualization:
+
+<img src="Images/Sum%20of%20avg_revenue_per_customer.png" alt="Sum of Average Revenue per Customer" width="50%" />    
 
 -  📊 *Key Insights:*:
     
