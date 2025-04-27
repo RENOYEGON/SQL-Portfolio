@@ -1,7 +1,7 @@
 ## Insights
 ### 1. Revenue trends over time
 
-🖥️ Query: 1-[Total_Sales_Revenue.sql](Northwind/Insights/Total_Sales_Revenue.sql)
+🖥️ Query: 1-[Total_Sales_Revenue.sql](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/Total_Sales_Revenue.sql)
 
 📈 Visualization:
 
@@ -24,7 +24,7 @@
 ### 2. Is too much spent on shipping?Is shipping getting more expensive??
 
 
-🖥️ Query: 2-[too_much_spent_on_shipping.sql](Northwind/Insights/too_much_spent_on_shipping.sql)
+🖥️ Query: 2-[too_much_spent_on_shipping.sql](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/too_much_spent_on_shipping.sql)
 
 📈 Visualization:
 
@@ -46,7 +46,7 @@
 
 ### 3. Do Discounts Drive Sales?
 
-🖥️ Query: 3-[Discount_Impact_on_Sales.sql](Northwind/Insights/Discount_Impact_on_Sales.sql)
+🖥️ Query: 3-[Discount_Impact_on_Sales.sql](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/Discount_Impact_on_Sales.sql)
 
    - Yes – On a per-order basis, discounted sales moved more units (59.78 units/order) than non-discounted (46.65 units/order).
     - Customers are likely buying more when offered discounts.
@@ -78,7 +78,8 @@
 
 - **Top-Selling Products**: 
 
-  🖥️ Query: 4-[Best_and_Worst_Selling_Products.sql](Northwind/Insights/Best_and_Worst_Selling_Products.sql)
+  🖥️ Query: 4 - [Best and Worst Selling Products](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/Best_and_Worst_Selling_Products.sql)
+
   
   📈 Visualization:
 
@@ -101,7 +102,7 @@
 ### 5. Are Discontinued Products Still Selling Well?
 
 
-🖥️ Query: 5-[Discontinued_Products_Still_Selling_Well.sql](Northwind/Insights/Discontinued_Products_Still_Selling_Well.sql)
+🖥️ Query: 5-[Discontinued_Products_Still_Selling_Well.sql](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/Discontinued_Products_Still_Selling_Well.sql)
 
 📈 Visualization:
 
@@ -131,7 +132,7 @@
 ### 6. Top Customers by Profitability (Not Just Revenue)
 
 
-🖥️ Query: 6-[Key_Customers_&_profitability.sql](Northwind/Insights/Key_Customers_&_profitability.sql)
+🖥️ Query: 6-[Key_Customers_&_profitability.sql](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/Key_Customers_%26_profitability.sql)
 
 📈 Visualization:
 
