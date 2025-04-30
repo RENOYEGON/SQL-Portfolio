@@ -46,9 +46,9 @@
 
 ### 3. Do Discounts Drive Sales?
 
-📈 Visualization:
-![alt text](images/Discounts_Drive_Sales.png)
+  📈 Visualization:
 
+  <img src="images/Discounts_Drive_Sales.png" alt="Discounts Drive Sales" width="50%" />
 
 🖥️ Query: 3-[Discount_Impact_on_Sales.sql](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/Discount_Impact_on_Sales.sql)
 
@@ -89,7 +89,9 @@
 - **Top 5 Products**:
  
   📈 Visualization:
-![alt text](images/Best_selling_products.png)
+
+   <img src="images/Best_selling_products.png" alt="Best Selling Products" width="50%" />
+
 
 - The **top 5 products** combined make up **30.57%** of total revenue, showing a strong concentration of sales in this small group of high-performing items.
 
@@ -97,7 +99,8 @@
 - **Underperforming Products**:
 
   📈 Visualization:
-  ![alt text](images/Worst_selling_products.png)
+
+  <img src="images/Worst_selling_products.png" alt="Worst Selling Products" width="50%" />
 
   On the flip side, the **worst 5 products** contribute less than **1%** of total revenue, indicating that these items have minimal impact on the overall financial performance.
 
@@ -139,7 +142,7 @@
 
 📈 Visualization:
 
-![alt text](images/Top_Customers_by_Profitability.png)
+<img src="images/Top_Customers_by_Profitability.png" alt="Top Customers by Profitability" width="50%" />
 
 
 - Some customers buy a lot but receive heavy discounts, reducing profitability.  
