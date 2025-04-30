@@ -46,6 +46,10 @@
 
 ### 3. Do Discounts Drive Sales?
 
+📈 Visualization:
+![alt text](images/Discounts_Drive_Sales.png)
+
+
 🖥️ Query: 3-[Discount_Impact_on_Sales.sql](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/Discount_Impact_on_Sales.sql)
 
    - Yes – On a per-order basis, discounted sales moved more units (59.78 units/order) than non-discounted (46.65 units/order).
@@ -80,23 +84,22 @@
 
   🖥️ Query: 4 - [Best and Worst Selling Products](https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/Best_and_Worst_Selling_Products.sql)
 
-  
-  📈 Visualization:
-
-  <img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/top%20selling.png?raw=true" alt="customers" width="70%" />
-
 - The top-selling product contributes **11.17%** of total revenue, while the second-best seller accounts for **6.35%**. Together, these two products play a significant role in driving overall sales.
 
-- **Top 5 Products**: 
-
-  <img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/worst%20selling.png?raw=true" alt="customers" width="70%" />
-
+- **Top 5 Products**:
+ 
+  📈 Visualization:
+![alt text](images/Best_selling_products.png)
 
 - The **top 5 products** combined make up **30.57%** of total revenue, showing a strong concentration of sales in this small group of high-performing items.
 
 
+- **Underperforming Products**:
 
-- **Underperforming Products**: On the flip side, the **worst 5 products** contribute less than **1%** of total revenue, indicating that these items have minimal impact on the overall financial performance.
+  📈 Visualization:
+  ![alt text](images/Worst_selling_products.png)
+
+  On the flip side, the **worst 5 products** contribute less than **1%** of total revenue, indicating that these items have minimal impact on the overall financial performance.
 
 
 ### 5. Are Discontinued Products Still Selling Well?
@@ -136,7 +139,7 @@
 
 📈 Visualization:
 
-<img src="https://github.com/RENOYEGON/SQL-Portfolio/blob/main/Northwind/Insights/images/Top%20Customers%20by%20Profitability.png?raw=true" alt="customers" width="70%" />
+![alt text](images/Top_Customers_by_Profitability.png)
 
 
 - Some customers buy a lot but receive heavy discounts, reducing profitability.  
