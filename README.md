@@ -29,7 +29,7 @@ Welcome to my SQL portfolio! This repository contains a collection of my SQL pro
 
 - **Project: Layoffs Analysis**
 
-  ○ **Description:** This project focuses on preparing and analyzing [raw layoff data](https://layoffs.fyi/) to uncover trends and insights related to workforce reductions in the tech industry from the onset of March 2020 to April 2025. The objective is to assess the scale, timing, and sector-wise distribution of layoffs across the tech landscape.
+  ○ **Description:** An extensive review of the [layoffs data](https://layoffs.fyi/) from industries ran from March 2020 to April 2025 based on the resources from Layoffs.fyi. The study required cleaning and modifying raw datasets so they could find essential trends about workforce cuts which showed patterns across industries and timeframes and organizational size. This study aimed to uncover useful knowledge about tech industry job cut effects which occurred between the COVID-19 pandemic and its aftermath.
 
   ○ **Key SQL Skills Applied:** Data cleaning and transformation, data type standardization, use of Common Table Expressions (CTEs), string parsing, window functions for trend analysis, aggregations and grouping for summarization, table joins.
   - **Resources:**
