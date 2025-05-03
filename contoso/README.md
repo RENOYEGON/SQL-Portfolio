@@ -29,7 +29,7 @@ This business dataset entails  information about customers, products, sales tran
   -  **Avg lifetime value per customer** has dropped from **$5.6K (2015)** to **$1.9K (2024)**. Retention is weakening: Lifetime/initial revenue ratio has shrunk over the years, indicating newer customers may be less loyal or lower-spending. **2022** and **2023** cohorts brought high initial revenues but relatively weaker retention. 
   -  **Older cohorts** **(2015–2017)** have ratios close to or above **2.0**, meaning customers generated twice their initial value over time. Newer cohorts **(2022–2024)** show a sharp drop, with ratios approaching **1.0**, indicating minimal post-purchase value
 -  *Cohort Behavior Over Time:*
-   - **Over Time Older cohorts** **(2015–2017)** generate consistent, long-term revenue — they contribute smaller but steady revenue even **7–10 years** after acquisition. Newer cohorts **(2020–2024)** are much more front-loaded — most revenue happens in the first **1–2 years **after the first purchase, with sharp fall-offs after. 
+   - **Over Time Older cohorts** **(2015–2017)** generate consistent, long-term revenue — they contribute smaller but steady revenue even **7–10 years** after acquisition. Newer cohorts **(2020–2024)** are much more front-loaded — most revenue happens in the first **1–2 years** after the first purchase, with sharp fall-offs after. 
    - **Biggest Long-Term Contributors 2015** cohort still generated **$358K** in **2024** — impressive 10-year longevity. **2016–2017** cohorts also show strong multi-year contributions, each making hundreds of thousands even **7–8 years** later. **2018** and **2019** cohorts continue to bring significant yearly revenue **(over $700K each even in 2024)**.
 
 - *High Per-Customer Potential*
