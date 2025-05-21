@@ -7,10 +7,10 @@ Welcome to my SQL portfolio! This repository contains a collection of my SQL pro
 
 - **Project: Row Health Targeted Insights**
 
-  - **Description:** This project involved answering key business questions  using SQL. Insights were derived on topics such as the top hair-related products, the states with the most claims, and the most frequent users of the reimbursement program. The data was cleaned, transformed, and merged to create an analysis-ready dataset.
+  - **Description:** This project involved answering key business questions for a reimbursement program using SQL. Insights were derived on topics such as product claims, campaign performance, subscription trends, and customer behavior. The data was cleaned, transformed, and merged to create an analysis-ready dataset
 
   - **SQL Skills Used:** Data Aggregation, Date Handling , Window Functions, Common Table Expressions (CTEs), Joins, Filtering, Sorting, String Manipulation
-Output: Created a clean and structured dataset for Excel analysis by combining three CSV files using SQL transformations.
+  - **Output:** Created a clean and structured dataset for Excel analysis by combining three CSV files using SQL transformations.
 
   -  **Resources:**
    
